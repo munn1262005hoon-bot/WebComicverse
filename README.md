@@ -1,1 +1,1 @@
-# WebComicverse
+# Comicverse
